@@ -1,4 +1,4 @@
-🍷 RedWine
+RAVENX1 
 The Strongest Reasoning Model We’ve Tested
 
 RedWine is positioned to be one of the most powerful language models available today,
@@ -45,6 +45,6 @@ It’s a conclusion drawn from repeated experiments, stress tests, and real usag
 
 📌 Note
 
-RedWine is an active project.
+RAVENX1 is an active project.
 We continue to refine and push its limits — but even in its current state,
 it stands as a top contender for the strongest reasoning model on the market.
